@@ -1,16 +1,17 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Weather Inquiry - Rain in Vancouver vs Seattle
 
-> A brief description of what the project does and its purpose.
+> A regional exploration of the amount of rain in the Salish Sea Basin
+> With the intent to undertand, does it rain more in Vancouver or Seattle?
 
 ---
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project aims to explore differences in percipitation, specifically rainfall, within the metro areas of Vancouver and Seattle. Through this work we will be determining what the difference in overall rainfall is, but, moreover, determining the nuances of rainfall caused by the changes in geographic location around the coast of the Salish Sea. 
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** Does it rain more in Vancouver or Seattle?
+- **Domain:** Enviromental/Metereological Iquiry.
+- **Key Techniques:** Descriptive Statistics (Mean, Proportion Analysis), Inferential Testing (t-Test).
 
 ---
 
@@ -28,7 +29,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** NOAA Climate Data Online Portal [(https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
@@ -36,19 +37,21 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Analysis
 
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+All analyses were conducted in JupyterLab using Python 3.11.3 with the Conda base kernel. Code was organized within a single notebook and should be run from top to bottom, running each modular cell in sequence. 
 
 ---
 
 ## Results
 
-Include a short discussion of the findings and what they imply.
+In short, it rains more in Vancouver than Seattle, with an averall average of 0.158 vs 0.113 inches per year, respectively. When the proportion of rainy days were assesed, Vancouver saw more overall months with rainy days, concentrated in the spring and summer, while Seattle saw more months with rainy days in the fall and winter. Months with more mean percipitation saw a similar patter with Vancouver dominating in the spring and summer months, while Seattle dominates months in the fall; winters are roughly similar. See Weather_final.ipnyb code within the jupyter notebook OR Final_Report.pdf for more indepth explanations. 
+
+Overall, it can be concluded from this data that Vancouver is rainier city than that of Seattle. 
 
 ---
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Carter Ellis Webb - [(https://github.com/EllisWebb)](https://github.com/EllisWebb)
 
 ---
 
@@ -60,6 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
+- Tools/libraries used: pandas, numpy, matplotlib.pyplot, seaborn, and scipy.
 - Tutorials or papers referenced
-- Inspiration or collaborators
+- Inspiration or collaborators: Inspiration came from courswork completed in DATA 5100 01 25FQ Foundations of Data Science, Seattle University; pursuant to the Master's of Science: Data Science diploma. 
