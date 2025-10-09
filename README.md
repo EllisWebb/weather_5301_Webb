@@ -1,6 +1,6 @@
 # Weather Inquiry - Rain in Vancouver vs Seattle
 
-> A regional exploration of the amount of rain in the Salish Sea Basin
+> A regional exploration of the amount of rain in the Salish Sea Basin.
 > With the intent to undertand, does it rain more in Vancouver or Seattle?
 
 ---
