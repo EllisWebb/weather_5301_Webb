@@ -30,7 +30,7 @@ This project aims to explore differences in precipitation, specifically rainfall
 ## Data
 
 - **Source:** NOAA Climate Data Online Portal [(https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
-- **Description:** The working data set used in the analysis phase was compiled from two data sets based on single, representative, weather stations within each metro area. The working data set has values, date,	city,	precipitation,	day_of_year, and is titled 'clean_seattle_vancouver_weather.csv' and is 3316 rows × 4 columns; this set contains no NaN values. The origional data sets have values STATION, NAME, DATE, DAPR, MDPR, PRCP, SNO, SNWD, WESD, WESF for Seattle and STATION, NAME, DATE, PRCP for Vancouver; they are 1658 rows x 10 columns and 1796 rows x 4 columns, respectively and each contain NaN values. 
+- **Description:** The working data set used in the analysis phase was compiled from two data sets based on single, representative, weather stations within each metro area. The working data set has values, date,	city,	precipitation,	day_of_year, and is titled 'clean_seattle_vancouver_weather.csv'. This working data is 3316 rows × 4 columns and contains no NaN values. The origional data sets have values STATION, NAME, DATE, DAPR, MDPR, PRCP, SNO, SNWD, WESD, WESF for Seattle and STATION, NAME, DATE, PRCP for Vancouver; they are 1658 rows x 10 columns and 1796 rows x 4 columns, respectively. Each contain NaN values. 
 - **License:** (if applicable)
 
 ---
