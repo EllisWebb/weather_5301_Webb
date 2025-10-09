@@ -49,7 +49,7 @@ In short, it rains more in Vancouver than Seattle, with an averall average of 0.
 
 ## Authors
 
-- Carter Ellis Webb - [[@yourhandle](https://github.com/yourhandle)](https://github.com/EllisWebb)
+- Carter Ellis Webb - [(https://github.com/yourhandle)](https://github.com/EllisWebb)
 
 ---
 
