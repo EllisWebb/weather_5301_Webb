@@ -11,7 +11,7 @@ This project aims to explore differences in percipitation, specifically rainfall
 
 - **Objective:** Does it rain more in Vancouver or Seattle?
 - **Domain:** Enviromental/Metereological Iquiry.
-- **Key Techniques:** Descriptive Statistics (Mean, Proportion Analysis), Inferential Testing (Two-Sample t-Test).
+- **Key Techniques:** Descriptive Statistics (Mean, Proportion Analysis), Inferential Testing (t-Test).
 
 ---
 
