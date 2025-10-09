@@ -43,7 +43,9 @@ All analyses were conducted in JupyterLab using Python 3.11.3 with the Conda bas
 
 ## Results
 
-In short, it rains more in Vancouver than Seattle, with an averall average of 0.158 vs 0.113 inches per year, respectively. Seattle, however, sees a larger proportion of month with "rainy days" per month, dates where some percipitation was recorded. Vancouver dominated months with more mean percipitation in the spring and summer months, while Seattle dominates months in the fall; winters are roughly similar. See Weather_final.ipnyb code within the jupyter notebook OR Final_Report.pdf for more indepth explanations. 
+In short, it rains more in Vancouver than Seattle, with an averall average of 0.158 vs 0.113 inches per year, respectively. When the proportion of rainy days were assesed, Vancouver saw more overall months with rainy days, concentrated in the spring and summer, while Seattle saw more months with rainy days in the fall and winter. Months with more mean percipitation saw a similar patter with Vancouver dominating in the spring and summer months, while Seattle dominates months in the fall; winters are roughly similar. See Weather_final.ipnyb code within the jupyter notebook OR Final_Report.pdf for more indepth explanations. 
+
+Overall, it can be concluded from this data that Vancouver is rainier city than that of Seattle. 
 
 ---
 
