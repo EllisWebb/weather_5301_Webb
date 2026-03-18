@@ -63,6 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used: pandas, numpy, matplotlib.pyplot, seaborn, and scipy.
-- Tutorials or papers referenced
-- Inspiration or collaborators: Inspiration came from courswork completed in DATA 5100 01 25FQ Foundations of Data Science, Seattle University; pursuant to the Master's of Science: Data Science diploma. 
